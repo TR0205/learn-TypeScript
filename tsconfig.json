@@ -99,15 +99,6 @@
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
   "include": [
-    "./src/class.ts"
+    "./src/advanced.ts"
   ]
-  // "exclude": [
-  //   // "compiler.ts",
-  //   // どのフォルダにあるcompiler.tsもコンパイルしない
-  //   // "**/compiler.ts",
-  //   "*.spec.ts",
-  //   // デフォルトでTypescriptはnode_modulesをコンパイルしないが、
-  //   // excludeを一つでも定義するとコンパイルされてしまうためこの設定が必要
-  //   "node_modules"
-  // ]
 }

@@ -60,4 +60,4 @@ type ConditionalTypes = 'tomato' extends string ? number : boolean;
 let aa: ConditionalTypes; // number型
 
 type ConditionalTypes2 = string extends 'tomato' ? number : boolean;
-let bb: ConditionalTypes2; // boolean
+let bb: ConditionalTypes2; // boolean型

@@ -27,4 +27,4 @@ const vegetables = ['Tomato', 'Broccoli'];
 let tmp2;
 let tmp3;
 let aa; // number型
-let bb; // boolean
+let bb; // boolean型
